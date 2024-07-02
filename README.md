@@ -30,3 +30,8 @@
 
 -   **진행일:** 2024.06.27
 -   **링크:** (링크 없음)
+
+### [Valid Parentheses]
+
+-   **진행일:** 2024.07.02
+-   **링크:** https://leetcode.com/problems/valid-parentheses/description/
