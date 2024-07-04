@@ -13,25 +13,36 @@
 
 ### [Two Sum]
 
+-   **출처:** LeetCode
 -   **진행일:** 2024.06.18
--   **링크:** [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
+-   **링크:** https://leetcode.com/problems/two-sum/
 
 ### [Single Number]
 
+-   **출처:** LeetCode
 -   **진행일:** 2024.06.20
--   **링크:** [https://leetcode.com/problems/single-number/description/](https://leetcode.com/problems/single-number/description/)
+-   **링크:** https://leetcode.com/problems/single-number/description/
 
 ### [Design Browser History]
 
+-   **출처:** LeetCode
 -   **진행일:** 2024.06.25
--   **링크:** [https://leetcode.com/problems/design-browser-history/](https://leetcode.com/problems/design-browser-history/)
+-   **링크:** https://leetcode.com/problems/design-browser-history/
 
 ### [Linked List]
 
+-   **출처:** LeetCode
 -   **진행일:** 2024.06.27
 -   **링크:** (링크 없음)
 
 ### [Valid Parentheses]
 
+-   **출처:** LeetCode
 -   **진행일:** 2024.07.02
 -   **링크:** https://leetcode.com/problems/valid-parentheses/description/
+
+### [같은 숫자는 싫어]
+
+-   **출처:** 프로그래머스
+-   **진행일:** 2024.07.04
+-   **링크:** https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=javascript
