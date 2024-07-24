@@ -46,3 +46,33 @@
 -   **출처:** 프로그래머스
 -   **진행일:** 2024.07.04
 -   **링크:** https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=javascript
+
+### [기능 개발]
+
+-   **출처:** 프로그래머스
+-   **진행일:** 2024.7.09
+-   **링크:** https://school.programmers.co.kr/learn/courses/30/lessons/42586
+
+### [프로세스]
+
+-   **출처:** 프로그래머스
+-   **진행일:** 2024.07.11
+-   **링크:** https://school.programmers.co.kr/learn/courses/30/lessons/42587
+
+### [전화번호 목록]
+
+-   **출처:** 프로그래머스
+-   **진행일:** 2024.07.16
+-   **링크:** https://school.programmers.co.kr/learn/courses/30/lessons/42577
+
+### [Longest Substring Without Repeating Characters]
+
+-   **출처:** LeetCode
+-   **진행일:** 2024.07.18
+-   **링크:** https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
+### [의상]
+
+-   **출처:** 프로그래머스
+-   **진행일:** 2024.07.23
+-   **링크:** https://school.programmers.co.kr/learn/courses/30/lessons/42578
