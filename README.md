@@ -76,3 +76,9 @@
 -   **출처:** 프로그래머스
 -   **진행일:** 2024.07.23
 -   **링크:** https://school.programmers.co.kr/learn/courses/30/lessons/42578
+
+#### [폰켓몬]
+
+-   **출처:** 프로그래머스
+-   **진행일:** 2024.07.25
+-   **링크:** https://school.programmers.co.kr/learn/courses/30/lessons/1845
